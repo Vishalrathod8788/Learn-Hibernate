@@ -1,0 +1,8 @@
+package com.pro.demo_hibernate;
+
+public class demo 
+{
+	private int id;
+	private String name;
+	private int age;
+}
