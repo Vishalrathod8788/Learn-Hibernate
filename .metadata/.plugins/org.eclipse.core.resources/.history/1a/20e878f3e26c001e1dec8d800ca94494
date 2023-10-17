@@ -1,6 +1,6 @@
 package com.pro.demo_hibernate;
 
-public class demo //POJO
+public class demo 
 {
 	private int id;
 	private String name;
