@@ -7,7 +7,6 @@ import javax.persistence.Id;
 public class demo //POJO
 {
 	@Id
-	
 	private int id;
 	private String name;
 	private int age;
