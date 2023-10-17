@@ -1,7 +1,13 @@
 package com.pro.demo_hibernate;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+@Entity
 public class demo //POJO
 {
+	@Id
+	
 	private int id;
 	private String name;
 	private int age;
