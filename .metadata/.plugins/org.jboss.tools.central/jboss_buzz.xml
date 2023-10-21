@@ -1,9 +1,65 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-10-18T12:16:49Z</updated>
+  <updated>2023-10-22T06:11:02Z</updated>
   <link href="https://tools.jboss.org"/>
   <xhtml:meta content="noindex" name="robots" xmlns:xhtml="http://www.w3.org/1999/xhtml"/><entry>
+    <title>JBoss Blogs: Addressing CVE-2023-44487: An Overview and Quarkus Solution</title>
+    <updated>2023-10-20T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/cve-2023-44487/</id>
+    <link href="https://quarkus.io/blog/cve-2023-44487/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Quarkus: Addressing CVE-2023-44487: An Overview and Quarkus Solution</title>
+    <updated>2023-10-20T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/cve-2023-44487/</id>
+    <link href="https://quarkus.io/blog/cve-2023-44487/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Quarkus: Compiling virtual thread applications into native executables</title>
+    <updated>2023-10-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/virtual-threads-5/</id>
+    <link href="https://quarkus.io/blog/virtual-threads-5/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.2.7.Final released - Maintenance release</title>
+    <updated>2023-10-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-2-7-final-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-2-7-final-released/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Compiling virtual thread applications into native executables</title>
+    <updated>2023-10-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/virtual-threads-5/</id>
+    <link href="https://quarkus.io/blog/virtual-threads-5/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.2.7.Final released - Maintenance release</title>
+    <updated>2023-10-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-2-7-final-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-2-7-final-released/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: WildFly 30 is released!</title>
+    <updated>2023-10-18T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2023/10/18/WildFly30-Released/</id>
+    <link href="https://wildfly.org//news/2023/10/18/WildFly30-Released/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 2.16.12.Final released - Maintenance release</title>
+    <updated>2023-10-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-2-16-12-final-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-2-16-12-final-released/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Quarkus 2.16.12.Final released - Maintenance release</title>
     <updated>2023-10-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-2-16-12-final-released/</id>
@@ -15,13 +71,6 @@
     <updated>2023-10-17T00:00:00Z</updated>
     <id>https://www.keycloak.org/2023/10/map-store-removal</id>
     <link href="https://www.keycloak.org/2023/10/map-store-removal" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 2.16.12.Final released - Maintenance release</title>
-    <updated>2023-10-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-2-16-12-final-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-2-16-12-final-released/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
@@ -39,14 +88,14 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.4.3 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.4.3 released - Maintenance release</title>
     <updated>2023-10-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-4-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-4-3-released/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.4.3 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.4.3 released - Maintenance release</title>
     <updated>2023-10-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-4-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-4-3-released/" rel="alternate"/>
@@ -109,17 +158,17 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Quarkus: A recap of Quarkus Tools for IntelliJ's latest improvements</title>
-    <updated>2023-10-10T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/intellij-quarkus-recap/</id>
-    <link href="https://quarkus.io/blog/intellij-quarkus-recap/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Meet Keycloak at KubeCon Chicago in Nov 2023</title>
     <updated>2023-10-10T00:00:00Z</updated>
     <id>https://www.keycloak.org/2023/10/keycloak-kubeconf-chicago</id>
     <link href="https://www.keycloak.org/2023/10/keycloak-kubeconf-chicago" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Quarkus: A recap of Quarkus Tools for IntelliJ's latest improvements</title>
+    <updated>2023-10-10T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/intellij-quarkus-recap/</id>
+    <link href="https://quarkus.io/blog/intellij-quarkus-recap/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
@@ -158,17 +207,17 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Red Hat Developer: Use fwupd to deploy Linux firmware updates and more</title>
-    <updated>2023-10-06T07:00:00Z</updated>
-    <id>b2def651-6552-4b46-a5f6-ca44020e7973</id>
-    <link href="https://developers.redhat.com/articles/2023/10/06/use-fwupd-deploy-linux-firmware-updates-and-more" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Try Camel on Quarkus in the Developer Sandbox for Red Hat OpenShift</title>
     <updated>2023-10-06T07:00:00Z</updated>
     <id>c7e19de1-859c-41da-bf71-75056f779eea</id>
     <link href="https://developers.redhat.com/articles/2023/10/06/try-camel-quarkus-developer-sandbox-red-hat-openshift" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Use fwupd to deploy Linux firmware updates and more</title>
+    <updated>2023-10-06T07:00:00Z</updated>
+    <id>b2def651-6552-4b46-a5f6-ca44020e7973</id>
+    <link href="https://developers.redhat.com/articles/2023/10/06/use-fwupd-deploy-linux-firmware-updates-and-more" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
@@ -179,14 +228,14 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.4.2 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.4.2 released - Maintenance release</title>
     <updated>2023-10-05T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-4-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-4-2-released/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.4.2 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.4.2 released - Maintenance release</title>
     <updated>2023-10-05T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-4-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-4-2-released/" rel="alternate"/>
@@ -232,55 +281,6 @@
     <updated>2023-10-02T00:00:00Z</updated>
     <id>https://quarkus.io/blog/virtual-threads-3/</id>
     <link href="https://quarkus.io/blog/virtual-threads-3/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Testing virtual thread applications</title>
-    <updated>2023-10-02T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/virtual-threads-3/</id>
-    <link href="https://quarkus.io/blog/virtual-threads-3/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>Quarkus: Live diff and update quarkus deployments in OpenShift using Jetbrains IDEA</title>
-    <updated>2023-09-28T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/live-diff-and-update-using-idea/</id>
-    <link href="https://quarkus.io/blog/live-diff-and-update-using-idea/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Live diff and update quarkus deployments in OpenShift using Jetbrains IDEA</title>
-    <updated>2023-09-28T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/live-diff-and-update-using-idea/</id>
-    <link href="https://quarkus.io/blog/live-diff-and-update-using-idea/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Just: a tool to store and execute your project commands</title>
-    <updated>2023-09-27T14:07:46Z</updated>
-    <id>https://www.mastertheboss.com/various-stuff/just-a-tool-to-store-and-execute-your-project-commands/</id>
-    <link href="https://www.mastertheboss.com/various-stuff/just-a-tool-to-store-and-execute-your-project-commands/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Hacktoberfest 2023</title>
-    <updated>2023-09-27T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2023/09/27/Hacktoberfest-2023/</id>
-    <link href="https://wildfly.org//news/2023/09/27/Hacktoberfest-2023/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>Quarkus: Writing CRUD applications using virtual threads</title>
-    <updated>2023-09-25T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/virtual-threads-2/</id>
-    <link href="https://quarkus.io/blog/virtual-threads-2/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>Quarkus: Observability in Quarkus 3</title>
-    <updated>2023-09-20T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-observability-3-3/</id>
-    <link href="https://quarkus.io/blog/quarkus-observability-3-3/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
